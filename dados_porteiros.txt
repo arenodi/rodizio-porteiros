@@ -1,0 +1,1 @@
+{'Ana': ['nenhum', 'par'], 'Andre': ['nenhum', 'nenhum'], 'Antonio': ['nenhum', 'impar'], 'Aline': ['nenhum', 'nenhum'], 'Lucia': ['nenhum', 'Par']}
